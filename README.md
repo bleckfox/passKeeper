@@ -1,2 +1,2 @@
 # passKeeper
-File of my pass keeper program
+File of my password keeper program.
